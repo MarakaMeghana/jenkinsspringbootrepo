@@ -14,5 +14,9 @@ public class ClientController {
 	{
 		return "Jenkins Demo";
 	}
+	public String test()
+	{
+		return "Deploy Spring Boot using Jenkins";
+	}
 
 }
